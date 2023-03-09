@@ -1,0 +1,17 @@
+.giscus-frame {
+    max-width: none !important; /* override default squished giscus look. */
+    width: 100% !important;
+}
+
+.giscus {
+    background-color: transparent !important;
+}
+
+.giscus-container {
+    max-width: none;
+    width: 100%;
+}
+
+.comments-dark > * {
+    background-color: #181818 !important;
+}

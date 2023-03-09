@@ -2,10 +2,10 @@
 title: 'Programming Assignment 1'
 date: '2023-01-19'
 lastmod: '2023-01-19'
-tags: ['pa', 'en', 'assignment', 'python']
+tags: ['homework', 'jp', 'python', 'project', 'haruto']
 draft: false
 summary: 'This is the Japanese prompt for Programming Assignment 1.'
-#images: ['/static/images/canada/mountains.jpg', '/static/images/canada/toronto.jpg']
+images: ['/static/images/canada/mountains.jpg', '/static/images/canada/toronto.jpg']
 authors: ['default']
 ---
 

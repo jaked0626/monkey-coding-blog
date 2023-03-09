@@ -6,6 +6,8 @@ import siteMetadata from '@/data/siteMetadata'
 const Giscus = () => {
   const [enableLoadComments, setEnabledLoadComments] = useState(true)
   const { theme, resolvedTheme } = useTheme()
+
+  // theme of giscus comment box
   const commentsTheme =
     siteMetadata.comment.giscusConfig.themeURL === ''
       ? theme === 'dark' || resolvedTheme === 'dark'
@@ -62,9 +64,9 @@ const Giscus = () => {
   }, [LoadComments])
 
   return (
-    <div className="pt-6 pb-6 text-center text-gray-700 dark:text-gray-300">
+    <div className="giscus-container pt-6 pb-6 text-center text-gray-700 dark:text-gray-300">
       {enableLoadComments && <button onClick={LoadComments}>Load Comments</button>}
-      <div className="giscus" id={COMMENTS_ID} />
+      <div className="mx-auto max-w-screen-xl" id={COMMENTS_ID} />
     </div>
   )
 }

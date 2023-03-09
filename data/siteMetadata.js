@@ -6,10 +6,10 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/haruto.png',
+  siteRepo: 'https://github.com/jaked0626/monkey-coding-blog',
+  siteLogo: '/static/images/guydebord.JPG',
   image: '/static/images/browniesunglasses.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/guydebord.JPG',
   email: 'jakez0626@gmail.com',
   github: 'https://github.com/jaked0626',
   twitter: 'https://twitter.com/Twitter',
@@ -58,7 +58,7 @@ const siteMetadata = {
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
       lang: 'en',
       // theme when dark mode
-      darkTheme: 'transparent_dark',
+      darkTheme: 'dark',
       // If the theme option above is set to 'custom`
       // please provide a link below to your custom theme css file.
       // example: https://giscus.app/themes/custom_example.css
