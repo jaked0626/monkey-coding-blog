@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "A collection of assignments and resources for Jake's Programming Tutoring",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://monkey-coding-blog.vercel.app/',
   siteRepo: 'https://github.com/jaked0626/monkey-coding-blog',
   siteLogo: '/static/images/guydebord.JPG',
   image: '/static/images/browniesunglasses.png',
