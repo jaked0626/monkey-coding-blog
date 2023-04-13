@@ -75,3 +75,5 @@ Definition: A programming language is a simpler way to give instructions to a co
 
 <center>*See Scratch Handout*</center>
 
+![Possible Solution to Find the Apple! Exercise](https://scratch.mit.edu/projects/834933692)
+
