@@ -115,7 +115,7 @@ Definition: A programming language is a simpler way to give instructions to a co
 
 - Show each other the programs you made!  
 
-### Find the Apple!  
+### Find the Apple!　🍎  
 
 - Go to [this Scratch project](https://scratch.mit.edu/projects/835198551).  
 - Your goal is to add code blocks so that when the green flag button is clicked, your Sprite moves across the screen to find the Apple.  
@@ -126,7 +126,8 @@ Definition: A programming language is a simpler way to give instructions to a co
 - Here's the teacher solution to the exercise. But remember, there are many correct ways to do this project! This isn't the only solution!
     - [Teacher Solution to Find the Apple! Exercise](https://scratch.mit.edu/projects/834933692)
 
-### Dance Time!!!  
+### Dance Time!!! 💃  
+
 - In this exercise, you'll be put into pairs.  
 - In each pair, there will be an *instructor* and a *programmer*.  
 - The *instructor* will watch a video of a Scratch Sprite doing a silly dance.  
