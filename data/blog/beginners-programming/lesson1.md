@@ -1,9 +1,9 @@
 ---
 title: 'Lesson 1: What Is Programming?'
 date: '2023-04-14'
-tags: ['beginners-programming']
+tags: ['beginners-programming', 'scratch']
 draft: false
-summary: "This is the first lesson of a beginner's course in programming"
+summary: "This lesson, the first in the series 'Beginners Programming', introduces the concept of programming and how programs interact with computers. In the later half of the course, we dive into Scratch, a graphical programming language for beginners."
 --- 
 
 # Welcome to the Course!  
