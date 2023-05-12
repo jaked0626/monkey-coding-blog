@@ -1,6 +1,6 @@
 ---
 name: Jakeydmonkey
-avatar: /static/images/guydebord.JPG
+avatar: /static/images/jake.jpeg
 occupation: Algorithms Engineer
 company: Optimind Inc
 email: jakez0626@gmail.com

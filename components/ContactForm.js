@@ -159,11 +159,11 @@ function ContactForm() {
         <div className="flex justify-center">
           <button
             type="submit"
-            className="rounded-md bg-gray-500 py-2 px-4 text-white transition duration-200 hover:bg-gray-400"
+            className="rounded-md bg-teal-400 py-2 px-4 text-white transition duration-200 hover:bg-teal-200"
           >
             {buttonText}
           </button>
-          {showSuccessMessage && <span className="mt-1 px-5 text-green-500">Message Sent!</span>}
+          {showSuccessMessage && <span className="mt-1 px-5 text-teal-400">Message Sent!</span>}
           {showFailureMessage && (
             <span className="mt-1 px-5 text-red-500">Error: Please try again later.</span>
           )}

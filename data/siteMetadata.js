@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://monkey-coding-blog.vercel.app/',
   siteRepo: 'https://github.com/jaked0626/monkey-coding-blog',
-  siteLogo: '/static/images/guydebord.JPG',
+  siteLogo: '/static/images/redmontessori.jpeg',
   image: '/static/images/browniesunglasses.png',
   socialBanner: '/static/images/guydebord.JPG',
   email: 'jakez0626@gmail.com',
