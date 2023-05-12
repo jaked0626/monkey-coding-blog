@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/jaked0626/monkey-coding-blog',
   siteLogo: '/static/images/redmontessori.jpeg',
   image: '/static/images/browniesunglasses.png',
-  socialBanner: '/static/images/guydebord.JPG',
+  socialBanner: '/static/images/redmontessori.jpeg',
   email: 'jakez0626@gmail.com',
   github: 'https://github.com/jaked0626',
   twitter: 'https://twitter.com/Twitter',
