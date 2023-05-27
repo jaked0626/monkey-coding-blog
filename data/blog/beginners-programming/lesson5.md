@@ -12,6 +12,8 @@ summary: "Today the students built a maze in scratch using fundamental computer 
 
 - [Teacher Code Demo](https://scratch.mit.edu/projects/853564227/)
 
+![](/static/images/beginners-programming/lesson5/maze.jpg)
+
 # Instructions  
 
 - Go to the skeleton code and make a remix of the project.  
@@ -24,3 +26,27 @@ summary: "Today the students built a maze in scratch using fundamental computer 
 
 - Make your maze, and try to solve each other's mazes!!! 
 
+# Student Projects  
+
+## Sumi  
+
+Coming Soon!
+
+
+## Kano   
+
+[Project URL](https://scratch.mit.edu/projects/853644180/)
+
+![](/static/images/beginners-programming/lesson5/kano.jpg)
+
+## Haru   
+
+[Project URL](https://scratch.mit.edu/projects/853635386/)
+
+![](/static/images/beginners-programming/lesson5/haru.jpg)
+
+## Mina    
+
+[Project URL](https://scratch.mit.edu/projects/853622986/)
+
+![](/static/images/beginners-programming/lesson5/mina.jpg)
