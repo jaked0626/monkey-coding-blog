@@ -1,6 +1,6 @@
 ---
 title: 'Lesson 7: Class Project Part 2' 
-date: '2023-06-02'
+date: '2023-06-09'
 tags: ['beginners-programming', 'scratch']
 draft: false
 summary: "This is part 2 of a multi part series where the students build a game on Scratch of their choice!"
