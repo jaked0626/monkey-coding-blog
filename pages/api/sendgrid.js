@@ -22,7 +22,8 @@ export const cors = initMiddleware(
     methods: ['POST'],
     origin: [
       'http://localhost:3000',
-      'https://jaked0626.github.io/digital-biz-card/',
+      'http://localhost:5173',
+      'https://jaked0626.github.io',
       siteMetadata.siteUrl,
     ], //TODO: replace * with deployed url
   })
