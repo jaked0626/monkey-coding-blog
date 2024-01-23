@@ -20,7 +20,11 @@ function initMiddleware(middleware) {
 export const cors = initMiddleware(
   Cors({
     methods: ['POST'],
-    origin: ['http://localhost:3000', siteMetadata.siteUrl], //TODO: replace * with deployed url
+    origin: [
+      'http://localhost:3000',
+      'https://jaked0626.github.io/digital-biz-card/',
+      siteMetadata.siteUrl,
+    ], //TODO: replace * with deployed url
   })
 )
 
